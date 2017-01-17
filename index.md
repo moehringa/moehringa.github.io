@@ -1,3 +1,7 @@
+---
+title: Document Center
+---
+
 ##### the_Blog_
 
 ###ONE
