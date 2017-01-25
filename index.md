@@ -38,3 +38,10 @@ title: Document Center
   expectations in the industry.  Also to start learning the new language this week
   was good as its easy to put it off and make the excuse of being to busy all of
   the time.  
+  
+   ###3<\br>
+* _The Pragmatic Programmer_ Chapter 2...<\br>
+  * In this chapter I noticed, after the information on duplicating code, the advice on setting up a forum or area in which developers could discuss problems and ideas.  Although this has been brought up in many of my classes I don't believe we (the students) have ever actually implemented this successfully. <\br>
+  * I found the tracer code section to be interesting, in that as soon as you believe you can successfully begin to distribute or implement something, likely after prototyping, the best thing to do is likely to begin implementing it.  This way the feedback begins to come back as soon as possible.  This also opens up the lines for communication which was brought up in chapter one.<\br>
+  *Another piece of advice I found helpful was to not give out quick estimates, they may come back to haunt you.  If for instance you give a fairly optimistic estimate but then find the problem to be a little more difficult than expected you may well have dug yourself into a hole that could have been avoided by using a slightly longer estimate.<\br>
+
